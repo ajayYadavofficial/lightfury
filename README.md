@@ -171,6 +171,15 @@ Response:
 
 ## Running the Server
 
+### With Docker (recommended)
+
+```bash
+docker build -t lightfury .
+docker run -p 8080:8080 lightfury
+```
+
+### Without Docker
+
 ```bash
 go run cmd/main.go
 ```
