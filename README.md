@@ -39,6 +39,10 @@ internal/
 
 ---
 
+![HLD](assets/hld.png)
+
+---
+
 ## Game Rules
 
 - Strictly 2 players per game (configurable via `config.MaxPlayers`)
