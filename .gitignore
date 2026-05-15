@@ -1,0 +1,17 @@
+# Planning & Claude
+planning/
+PLAN.md
+.claude/
+*.claude.txt
+
+# Binaries
+lightfury
+*.exe
+
+# Go test cache
+*.test
+*.out
+
+# IDE
+.idea/
+.vscode/
